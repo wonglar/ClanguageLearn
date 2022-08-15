@@ -68,11 +68,11 @@
 //}
 
 // 声明一个变量
-extern int g_val;
-
-int main()
-{
-
-	printf("%d\n", g_val);
-	return 0;
-}
+//extern int g_val;
+//
+//int main()
+//{
+//
+//	printf("%d\n", g_val);
+//	return 0;
+//}

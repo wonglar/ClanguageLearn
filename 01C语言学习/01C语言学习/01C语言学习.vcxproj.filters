@@ -27,5 +27,14 @@
     <ClCompile Include="add.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05初始字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06转义字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

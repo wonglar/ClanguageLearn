@@ -1,3 +1,3 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-int g_val = 2023;
+//int g_val = 2023;
