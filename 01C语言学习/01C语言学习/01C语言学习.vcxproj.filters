@@ -39,5 +39,11 @@
     <ClCompile Include="07初始常见关键字.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08define定义常量和宏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09初始指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

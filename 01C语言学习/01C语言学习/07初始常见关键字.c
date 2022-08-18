@@ -61,12 +61,12 @@
 
 
 // ÉùÃ÷º¯Êı
-extern int add(int x, int y);
-int main()
-{
-	int a = 10;
-	int b = 20;
-	int sum = add(a, b);
-	printf("sum = %d\n", sum);
-	return 0;
-}
+//extern int add(int x, int y);
+//int main()
+//{
+//	int a = 10;
+//	int b = 20;
+//	int sum = add(a, b);
+//	printf("sum = %d\n", sum);
+//	return 0;
+//}
