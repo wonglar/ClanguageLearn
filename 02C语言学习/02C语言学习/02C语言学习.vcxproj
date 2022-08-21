@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{436902AF-3CBC-4FD6-8AA0-1D9EB614AC0A}</ProjectGuid>
-    <RootNamespace>My01C语言学习</RootNamespace>
+    <ProjectGuid>{6C4AAD46-FD0D-4143-828B-7623624C3E5D}</ProjectGuid>
+    <RootNamespace>My02C语言学习</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -24,7 +24,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v120</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -65,17 +65,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01第一个C语言程序.c" />
-    <ClCompile Include="02数据类型.c" />
-    <ClCompile Include="03变量和常量.c" />
-    <ClCompile Include="04常量.c" />
-    <ClCompile Include="05初始字符串.c" />
-    <ClCompile Include="06转义字符.c" />
-    <ClCompile Include="07初始常见关键字.c" />
-    <ClCompile Include="08define定义常量和宏.c" />
-    <ClCompile Include="09初始指针.c" />
-    <ClCompile Include="10初始结构体.c" />
-    <ClCompile Include="add.c" />
+    <ClCompile Include="01分支语句else.c" />
+    <ClCompile Include="02分支语句switch.c" />
+    <ClCompile Include="03循环结构.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
