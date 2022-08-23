@@ -68,6 +68,8 @@
     <ClCompile Include="01分支语句else.c" />
     <ClCompile Include="02分支语句switch.c" />
     <ClCompile Include="03循环结构.c" />
+    <ClCompile Include="04练习.c" />
+    <ClCompile Include="05猜数字游戏.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
