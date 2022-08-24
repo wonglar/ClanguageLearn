@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03C语言学习", "03C语言学习\03C语言学习.vcxproj", "{F25C1CF3-8474-4C10-8F87-AF168E69DCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25C1CF3-8474-4C10-8F87-AF168E69DCAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F25C1CF3-8474-4C10-8F87-AF168E69DCAD}.Debug|Win32.Build.0 = Debug|Win32
+		{F25C1CF3-8474-4C10-8F87-AF168E69DCAD}.Release|Win32.ActiveCfg = Release|Win32
+		{F25C1CF3-8474-4C10-8F87-AF168E69DCAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
