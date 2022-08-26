@@ -49,20 +49,20 @@
 //	return count;
 //}
 
-int my_strlen(char *str)
-{
-	if (*str)
-	{
-		return 1 + my_strlen(str + 1);
-	}
-	else
-	{
-		return 0;
-	}
-}
-int main()
-{
-	char ch[] = "hello";
-	printf("%d\n", my_strlen(ch));
-	return 0;
-}
+//int my_strlen(char *str)
+//{
+//	if (*str)
+//	{
+//		return 1 + my_strlen(str + 1);
+//	}
+//	else
+//	{
+//		return 0;
+//	}
+//}
+//int main()
+//{
+//	char ch[] = "hello";
+//	printf("%d\n", my_strlen(ch));
+//	return 0;
+//}
