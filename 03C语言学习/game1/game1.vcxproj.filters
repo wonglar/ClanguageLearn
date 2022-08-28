@@ -15,11 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01函数作业.c">
+    <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02数组作为函数参数.c">
+    <ClCompile Include="game.c">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
